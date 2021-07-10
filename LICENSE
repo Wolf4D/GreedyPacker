@@ -1,6 +1,11 @@
-MIT License
+===============================================================================
+This is to be distributed with Greedy Packer Source Code
+===============================================================================
+Greedy Packer, universal texture atlas packer
 
-Copyright (c) 2021 Wolf4D
+The MIT License
+
+Copyright (c) 2021 Ivan Klenov (aka Wolf4D) <Wolf4D@list.ru>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
